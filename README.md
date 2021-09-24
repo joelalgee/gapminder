@@ -3,7 +3,7 @@ Wrangling, analysing and visualising country-level environmental and economic da
 
 ## Summary
 
-[Gapminder](https://www.gapminder.org/) has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
+[Gapminder](https://www.gapminder.org/), an independent Swedish foundation which identifies systematic misconceptions about important global trends and proportions, has collected a lot of information about how people live their lives in different countries, tracked across the years, and on a number of different indicators.
 
 In this project, I explored Gapminder's country-level, annual data on carbon dioxide emissions per person (in metric tonnes), energy usage per person (in kg equivalent oil), and gross national income per person (in international dollars, fixed 2011 prices, PPP based on 2011 ICP), to discover any trends and correlations for these indicators.
 
@@ -90,4 +90,4 @@ At low energy usage per person, the CO2 emissions per person may have increased,
 
 ## Credits
 
-This project was provided by [Udacity](https://www.udacity.com) as part of their [Data Analyst nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). Data were provided by [Gapminder](https://www.gapminder.org/data/).
+This project was provided by [Udacity](https://www.udacity.com) as part of their [Data Analyst nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). Data were provided by [Gapminder](https://www.gapminder.org/data/), an independent Swedish foundation which identifies systematic misconceptions about important global trends and proportions.
