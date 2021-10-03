@@ -1,4 +1,5 @@
-# Gapminder Environmental & Economic Data Wrangling & Analysis
+# Gapminder Environmental & Economic Data Wrangling & Analysis - September 2020
+
 Wrangling, analysing and visualising country-level environmental and economic data provided by Gapminder, using Python
 
 ## Summary
